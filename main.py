@@ -8,7 +8,7 @@ This script:
 3. Trains a Random Forest regression model.
 4. Evaluates performance and feature importance.
 
-Author: <Your Name>
+Author: Aswathi Ram P
 """
 
 import pandas as pd
